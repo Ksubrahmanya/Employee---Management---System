@@ -2,11 +2,11 @@
 The employee management system is designed to provide a graphical interface and ease of access in managing the employee information. There are two use-cases to the system where the user views the details where as Administrator obtains the information and add/update the user information. Various elements of the system are designed based on the problem statement.
 
 # Pre-requisites
-Eclipse IDE 2020
-Java 1.8 
-Maven (Spring)
-MySQL
-Tomcat Server v9.0
+* Eclipse IDE 2020
+* Java 1.8 
+* Maven (Spring)
+* MySQL
+* Tomcat Server v9.0
 
 # Usage
 **Step: 1**
