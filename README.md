@@ -9,7 +9,6 @@ The employee management system is designed to provide a graphical interface and 
 * Tomcat Server v9.0
 
 # Usage
-**Step: 1**
 
   * Obtain MySQL credentials from MySQL workbench.
   * Provide MySQL login credentials into dispatcher-servlet.xml file.
